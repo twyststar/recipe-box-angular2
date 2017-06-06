@@ -1,0 +1,6 @@
+.clicky:hover {
+  color: blue;
+  cursor:context-menu;
+  text-decoration: underline;
+
+}
